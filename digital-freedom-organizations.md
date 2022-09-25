@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Digital Freedom Organizations #
 
 ---------------------------------
@@ -64,7 +63,3 @@ The Free Software Foundation is working to secure freedom for computer users by 
 
 **The repository creator/maintainer would be excited to hear your thoughts pertaining to this project! macrohumanity: 1rcummin@protonmail.com or feel free to [CONTRIBUTE TO THIS DOCUMENT](https://github.com/macrohumanity/digital-freedom-organizations).**
 -  *[CLICK HERE](https://github.com/macrohumanity/digital-freedom-service-recommendations) for a descriptive list of digital freedom service recommendations for those who are new digital privacy and security or for those who are just looking to refine.*
-
-
-
->>>>>>> a8aa73f (revision)
